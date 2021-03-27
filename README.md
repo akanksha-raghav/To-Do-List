@@ -1,6 +1,6 @@
 # To-Do List
 
-It's an intuitive and easy to use online Todo list, and Task Manager. It helps you to get organized, simplify your life, and to get things done. It focuses heavily on the UI aspect of the app with great visual clarity.
+A simple to-do list webapp based on Javascript. It's an intuitive and easy to use online Todo list, and Task Manager. It helps you to get organized, and to get things done. 
 
 ## Built With
 
